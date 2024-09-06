@@ -98,12 +98,4 @@ GROUP BY 1
 ORDER BY 2 DESC
 LIMIT 3;
 
--- 12. Which sales rep from what region, handles the most accounts?
-
-SELECT TRIM(s.name) sales_rep_name, TRIM(r.name) region_name, count(*) no_of_accounts
-FROM accounts a
-LEFT JOIN sales_reps s ON a.sales_rep_id = s.id
-LEFT JOIN region r ON s.region_id = r.id
-GROUP BY 1,2
-ORDER BY 3 DESC;
 
