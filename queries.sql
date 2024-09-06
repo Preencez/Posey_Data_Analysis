@@ -22,7 +22,7 @@ SELECT sales_rep_id, COUNT(*) AS Number_of_Accounts
  FROM accounts;
 
 
--- 3. What is the total revenue from standard, gloss, and poster products?
+-- 3. Which account has the higheste total revenue from standard, gloss, and poster products?
 
 SELECT SUM(standard_amt_usd) total_standard_amt, SUM(gloss_amt_usd) gloss_standard_amt, 
 SUM(poster_amt_usd) poster_standard_amt
