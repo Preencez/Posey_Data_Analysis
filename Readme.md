@@ -32,4 +32,4 @@ respectively. This aggregates the fact that the `Northeast` region generates the
 **NB:** *The queries to the insights above can be found in the `queries.sql` file.*
 
 
-You can view and collaborate on the project presentation [here](https://docs.google.com/presentation/d/1ie2BMPnrj0Ofigf0Ip9YCqET6HcWT3x7lpLU-VQ2ets/edit?usp=sharing).
+The presentation slides can be viewed using this link" [here](https://docs.google.com/presentation/d/1ie2BMPnrj0Ofigf0Ip9YCqET6HcWT3x7lpLU-VQ2ets/edit?usp=sharing).
