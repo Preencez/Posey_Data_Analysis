@@ -27,7 +27,7 @@ respectively. This aggregates the fact that the `Northeast` region generates the
 * The top 3 sales reps by revenue generated are `Earlie Schleusner`, `Tia Amato` and `Vernita Plump` with total revenues and order of `$1,098,137.72 and 174,430`,
  `$1,010,690.60 and 152,638` and `$934,212.93 and 150,467` respectively.
  
-* The sales rep that handles the most account is `Georgianna Chisholm` from the `West` region.
+* The sales rep that handles the most account is `Georgianna Chisholm` with `15 accounts` from the `West` region.
 
 **NB:** *The queries to the insights above can be found in the `queries.sql` file.*
 
